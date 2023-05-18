@@ -1,0 +1,15 @@
+{
+	"name": "@bluente/ui",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "rm -rf dist/ && tsc -p tsconfig.json"
+	},
+	"devDependencies": {
+		"@bluente/types": "workspace:*",
+		"@types/react": "18.2.6"
+	},
+	"dependencies": {
+		"react": "18.2.0"
+	}
+}

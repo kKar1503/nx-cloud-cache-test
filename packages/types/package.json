@@ -1,0 +1,6 @@
+{
+	"name": "@bluente/types",
+	"devDependencies": {
+		"react": "18.2.0"
+	}
+}
